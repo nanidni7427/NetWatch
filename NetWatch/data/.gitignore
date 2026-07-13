@@ -1,0 +1,17 @@
+# Compiled executable
+netwatch
+*.exe
+*.o
+*.obj
+
+# Build folders
+build/
+
+# Log files
+logs/*.txt
+
+# VS Code
+.vscode/
+
+# Temporary files
+*.tmp

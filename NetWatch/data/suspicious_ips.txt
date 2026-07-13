@@ -1,0 +1,7 @@
+# NetWatch Suspicious IP Blacklist
+# One IP per line  (lines starting with # are comments)
+185.220.101.45
+45.142.212.100
+192.168.1.99
+10.0.0.254
+198.51.100.1
